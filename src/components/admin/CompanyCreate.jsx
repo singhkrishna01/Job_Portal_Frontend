@@ -30,6 +30,7 @@ const CompanyCreate = () => {
             }
         } catch (error) {
             console.log(error);
+            
         }
     }
     return (
